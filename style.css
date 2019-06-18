@@ -1,0 +1,24 @@
+/* .container{
+	padding-top: 5%;
+} */
+
+.jumbotron {
+  /*padding: 1%;*/
+  background-image: url("Sports_ball__twitter_.jpg");
+  background-size: cover;
+  color: #5cb864;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+button {
+  color: #5cb864;
+}
+
+#athletes {
+  padding: 3%;
+}
+
+div {
+  margin-bottom: 2%;
+}
